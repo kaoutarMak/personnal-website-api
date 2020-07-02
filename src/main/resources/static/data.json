@@ -1,0 +1,155 @@
+{
+  "profil": {
+    "firstName": "Kaoutar",
+    "lastName": "Makdad",
+    "email": "kaoutar.mak2@gmail.com",
+    "date_birth": "1993-06-27T23:00:00.000+00:00",
+    "adress": "576 Lot El Maghrib El Jadid, Larache",
+    "phone": "+212 6 70 63 60 58"
+  },
+  "resume": {
+    "description": "Java developer with excellent knowledge in several environments and technologies, in particular JAVA, JEE, Mysql and Big Data. Strong motivation and analytical skills, methods and rigor in addition to working independently or in a group in an environment dynamic and demanding."
+  },
+  "projects": [{
+    "title": "Personnal Website CV",
+    "description": "Personal Website presents my CV: Education & Training, My projects ...",
+    "skills": [
+      "Bootstrap 4",
+      "HTML5",
+      "CSS3",
+      "JavaScript/jQuery"
+    ]
+  }, {
+    "title": "Hospital Management System in JEE (IT training completion project)",
+    "description": "The main objective of this project is to develop a website for a hospital in order to provide an efficient and economical way to make appointments and help in all related tasks: management of hospital and doctor schedules, queue management and export of patient appointments",
+    "skills": [
+      "Spring Boot",
+      "Spring Security",
+      "Hibernate",
+      "MySQL",
+      "Bootstrap"
+    ]
+  }, {
+    "title": "Java Platform for the exchange and sharing of variant data between connected objects",
+    "description": "Platform with a set of services using intermediate files in XML format between data sources and connected objects in order to facilitate and improve communication between them",
+    "skills": [
+      "JAVA 8",
+      "SWING",
+      "Cassandra",
+      "XML"
+    ]
+  }, {
+    "title": "Dynamic JEE website for the Advanced Technologies laboratory within the Faculty",
+    "description": "website for our laboratory of advanced sciences and technologies which brings together the laboratory's researchers in a unified platform. This Website aims to make contributions in several fields by guaranteeing a remarkable evolution and thus guarantees the uniqueness of the information exchanged between them.",
+    "skills": [
+      "JAVA/JEE",
+      "HTML5",
+      "CSS3",
+      "PrimeFaces",
+      "BootsFaces",
+      "JavaScript/jQuery",
+      "GlassFish"
+    ]
+  }, {
+    "title": "Creation of a face detection application",
+    "description": "face detection application from a video sequence, based on the Viola and Jones algorithm, and using java language and libraries of real-time algorithms defined in OpenCV",
+    "skills": [
+      "JAVA",
+      "OpenCV"
+    ]
+  }, {
+    "title": "JEE Web Application for Student Management",
+    "description": "",
+    "skills": [
+      "JAVA/JEE",
+      "Servlet",
+      "JSP",
+      "JSF",
+      "MySQL"
+    ]
+  }],
+  "trainings": [{
+    "date": "2019 - 2020",
+    "title": "JAVA & JEE Development Training",
+    "location": "",
+    "description": "Intensive Java development training (IT, soft skills & English) as part of the PALIM project (European Pilot Project), Implemented and coordinated by the Belgian agency Enabel, Sponsored by the European Union and delivered by MindTech - Tangier"
+  }, {
+    "date": "2018 - 2019",
+    "title": "PhD Student in « Web of Things and Data Analysis Services »",
+    "location": "Abdelmalek Essaadi University - Larache",
+    "description": ""
+  }, {
+    "date": "2016 - 2018",
+    "title": "Master in Advanced Technologies - Embedded Systems",
+    "location": "Abdelmalek Essaadi University - Larache",
+    "description": "This training aims to train specialists capable of understanding, that is to say, modeling, designing, managing or optimizing applications using on-board systems and networks of smart communicating sensors / actuators as well as production."
+  }, {
+    "date": "2011 - 2015",
+    "title": "Bachelor's degree in Mathematics and Computer Science",
+    "location": "Abdelmalek Essaadi University - Larache",
+    "description": "this training allows me to acquire bases in general mathematics and communication techniques. it also allows me to acquire a solid background in computer science \n\r - Object Oriented Design \n\r - Object Oriented Programming \n\r - Networks \n\r - Compilation \n\r - Web development"
+  }, {
+    "date": "2011",
+    "title": "Bachelor in Physical Science",
+    "location": "",
+    "description": "Honours baccalaureate in physics which allows me to acquire a maximum of skills in this field"
+  }],
+  "skills": [{
+    "name": "JAVA",
+    "type": "hard",
+    "domaine": "backend",
+    "primary": true,
+    "score": 90
+  }, {
+    "name": "JEE",
+    "type": "hard",
+    "domaine": "backend",
+    "primary": true,
+    "score": 75
+  }, {
+    "name": "Spring (MVC, BOOT, Security)",
+    "type": "hard",
+    "domaine": "backend",
+    "primary": true,
+    "score": 70
+  }, {
+    "name": "C/C++",
+    "type": "hard",
+    "domaine": "backend",
+    "primary": true,
+    "score": 50
+  }, {
+    "name": "HTML5/CSS3",
+    "type": "hard",
+    "domaine": "frontend",
+    "primary": true,
+    "score": 85
+  }, {
+    "name": "JavaScript/jQuery",
+    "type": "hard",
+    "domaine": "frontend",
+    "primary": true,
+    "score": 75
+  }, {
+    "name": "Bootstrap",
+    "type": "hard",
+    "domaine": "frontend",
+    "primary": true,
+    "score": 85
+  }, {
+    "name": "Angular 8",
+    "type": "hard",
+    "domaine": "frontend",
+    "primary": true,
+    "score": 55
+  }],
+  "certifs": [{
+    "id": 1,
+    "date": "Mai 2019",
+    "title": "Programmation avec Python"
+  }, {
+    "id": 2,
+    "date": "Février 2019",
+    "title": "Big Data Analytics with R"
+  }]
+}
